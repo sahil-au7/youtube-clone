@@ -19,7 +19,7 @@ const Header = () => {
         />
       </div>
       <div className="header__input">
-        <input type="text" placeholder="  Search" />
+        <input type="text" placeholder="Search" />
         <SearchOutlinedIcon className="header__inputButton" />
       </div>
       <div className="header__icons">
